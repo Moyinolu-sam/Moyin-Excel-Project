@@ -21,4 +21,7 @@ The data was checked, and the following was done in the process of eaning the da
 
 ### EXPLORATORY DATA ANALYSIS
 I explored the data to answer questions like:
+ - What products has the higheest discount.
+ - what products have the highest average rating.
+ - Comparing the average actual price with the average discounted price.
  - 
