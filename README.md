@@ -24,4 +24,5 @@ I explored the data to answer questions like:
  - What products has the higheest discount.
  - what products have the highest average rating.
  - Comparing the average actual price with the average discounted price.
- - 
+ - What is the distribution of product rating.
+ - What is the number of product per priice range.
