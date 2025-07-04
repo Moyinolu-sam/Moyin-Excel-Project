@@ -13,3 +13,8 @@ Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/ex
  - For Data cleaning
  - For Data Visualization
 
+### DATA CLEANING
+The data was checked, and the following was done in the process of eaning the data
+ - Data loading.
+ - Handling missing and erroneous values.
+ - Data cleaning and formatting
