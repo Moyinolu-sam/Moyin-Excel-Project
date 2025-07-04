@@ -26,3 +26,5 @@ I explored the data to answer questions like:
  - Comparing the average actual price with the average discounted price.
  - What is the distribution of product rating.
  - What is the number of product per price range.
+
+### DATA ANALYSIS
