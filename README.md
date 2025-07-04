@@ -28,3 +28,6 @@ I explored the data to answer questions like:
  - What is the number of product per price range.
 
 ### DATA ANALYSIS
+![Screenshot 2025-07-04 205950](https://github.com/user-attachments/assets/ab71267f-0169-4cf4-a8b6-563499b92016)
+![Screenshot 2025-07-04 205935](https://github.com/user-attachments/assets/c8603034-58d5-47d5-bf88-cefc6ce23c16)
+![Screenshot 2025-07-04 205852](https://github.com/user-attachments/assets/d4c9a4cf-7553-485b-8598-a5f95db13c77)
