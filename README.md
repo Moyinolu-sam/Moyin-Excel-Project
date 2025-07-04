@@ -18,3 +18,7 @@ The data was checked, and the following was done in the process of eaning the da
  - Data loading.
  - Handling missing and erroneous values.
  - Data cleaning and formatting
+
+### EXPLORATORY DATA ANALYSIS
+I explored the data to answer questions like:
+ - 
